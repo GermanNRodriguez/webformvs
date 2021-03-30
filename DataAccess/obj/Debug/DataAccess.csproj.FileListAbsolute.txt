@@ -1,0 +1,8 @@
+C:\Users\Gerniroz\source\repos\ProductosWebForm\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Gerniroz\source\repos\ProductosWebForm\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Gerniroz\source\repos\ProductosWebForm\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Gerniroz\source\repos\ProductosWebForm\DataAccess\bin\Debug\Producto.dll
+C:\Users\Gerniroz\source\repos\ProductosWebForm\DataAccess\bin\Debug\Producto.pdb
+C:\Users\Gerniroz\source\repos\ProductosWebForm\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Gerniroz\source\repos\ProductosWebForm\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Gerniroz\source\repos\ProductosWebForm\DataAccess\obj\Debug\DataAccess.pdb
